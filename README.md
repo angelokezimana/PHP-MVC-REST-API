@@ -46,9 +46,9 @@ $router->post('/:name', function($param) {
 ```
 <h2> Database Connection </h2>
 
-> <p> Consider that for useing database you should edit config.php file before start useing database.</p>
+> <p> Consider that for using database you should edit config.php file before start using database.</p>
 
-<p> For getting a database connection, you can use bellow sample in Model directory: </p>
+<p> For getting a database connection, you can use below sample in Model directory: </p>
 
 ```php
 <?php
