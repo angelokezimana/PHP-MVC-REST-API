@@ -31,7 +31,7 @@ $router->get('/:name', function($param) {
 <p> For example, when I use this url "yourdomin.com/afgprogrammer" I will get following output.</p>
 
 ```
-wellcome afgprogrammer
+welcome afgprogrammer
 ```
 
 <p> It's just a Piece of cake :) </p>
